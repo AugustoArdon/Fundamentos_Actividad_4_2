@@ -16,9 +16,7 @@ Conexión a internet para obtener la imagen generada con IA
 
 ## Pasos para la Ejecución
 
-Clonar el repositorio
-
-git clone <URL_DEL_REPOSITORIO>
+Descargar el repositorio
 
 Acceder al directorio del proyecto
 
@@ -40,6 +38,6 @@ http://localhost/proyecto_php/index.php
 
 Nombre: Augusto
 
-Correo: [tu_correo@example.com]
+Correo: gerardo.moran@galileo.edu
 
-Carnet: [Tu número de carnet]
+Carnet: 25000955
