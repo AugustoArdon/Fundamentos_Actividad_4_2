@@ -36,7 +36,7 @@ http://localhost/proyecto_php/index.php
 
 ## Datos del Autor
 
-Nombre: Augusto
+Nombre: Augusto Morán
 
 Correo: gerardo.moran@galileo.edu
 
