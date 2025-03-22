@@ -1,10 +1,10 @@
-Hola Mundo en PHP
+# Hola Mundo en PHP
 
-Descripción
+## Descripción
 
-Esta aplicación está desarrollada en PHP y muestra en pantalla el mensaje "Hola mundo, soy [nombre del estudiante]". Además, incluye una imagen generada con inteligencia artificial utilizando Leonardo AI.
+Esta aplicación está desarrollada en PHP y muestra en pantalla el mensaje "Hola mundo, soy Gerardo Augusto Morán". Además, incluye una imagen generada con inteligencia artificial utilizando Leonardo AI.
 
-Prerrequisitos
+## Prerrequisitos
 
 Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes programas:
 
@@ -14,7 +14,7 @@ Editor de código (VS Code, Sublime Text, etc.)
 
 Conexión a internet para obtener la imagen generada con IA
 
-Pasos para la Ejecución
+## Pasos para la Ejecución
 
 Clonar el repositorio
 
@@ -36,7 +36,7 @@ Abre el navegador y accede a:
 
 http://localhost/proyecto_php/index.php
 
-Datos del Autor
+## Datos del Autor
 
 Nombre: Augusto
 
